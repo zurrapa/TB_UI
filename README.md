@@ -1,2 +1,2 @@
 # TB_UI
- Add-on for new blender flavor
+Blender Add-on for personal use that add custom menus, panels, and general UI changes
